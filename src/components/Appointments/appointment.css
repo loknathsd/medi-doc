@@ -1,0 +1,87 @@
+.date-area {
+    width: 63px;
+    height: 100px;
+    background: #FFFFFF;
+    border: 1px solid #EDEBEB;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.date-area h6 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    color: #384449;
+    mix-blend-mode: normal;
+    opacity: 0.6;
+
+}
+
+.date-area p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 18px;
+    color: #384449;
+
+}
+
+.date-area h4 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 16px;
+    color: #384449;
+    mix-blend-mode: normal;
+    opacity: 0.6;
+
+}
+
+.doctor-detail {
+    box-sizing: border-box;
+    width: 342px;
+    height: 101px;
+    background: #FFF5F5;
+    border: 1px solid #FDDAD6;
+    border-radius: 8px;
+    padding: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    line-height: 150%;
+    padding: 15px;
+}
+
+.doctor-detail h5 {
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 0.01em;
+    color: #384449;
+
+}
+
+.doctor-detail small {
+    font-weight: 400;
+    font-size: 13px;
+    letter-spacing: 0.01em;
+    color: #2E1619;
+
+}
+
+.doctor-detail p {
+    font-weight: 500;
+    font-size: 14px;
+    color: #384449;
+
+}
+
+.doctor-detail span {
+    font-weight: 500;
+    font-size: 14px;
+    color: #8A8686;
+
+}

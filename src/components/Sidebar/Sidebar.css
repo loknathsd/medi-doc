@@ -1,0 +1,75 @@
+.appointment-button {
+    width: 151px;
+    height: 44px;
+
+    background: linear-gradient(101.27deg, #FF7594 -6.58%, #FF7C65 102.46%);
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    border: none;
+    margin-left: 35px;
+    color: white;
+    margin-top: 90px;
+}
+
+.plus-container {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    gap: 10px;
+    width: 45px;
+    height: 45px;
+    background: linear-gradient(101.27deg, #FF7594 -6.58%, #FF7C65 102.46%);
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    margin-top: 80px;
+    margin-left: 10px;
+}
+
+.plus {
+    box-sizing: border-box;
+    width: 25px;
+    height: 25px;
+    background: radial-gradient(66.87% 202.7% at 2.84% 6.11%, rgba(255, 255, 255, 0.28) 0%, rgba(255, 255, 255, 0.28) 100%);
+    backdrop-filter: blur(20px);
+    border-radius: 40px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.logo-area{
+    display: flex;
+    margin: 0px 20px;
+    
+}
+.logo-area img{
+    height: 30px;
+    margin-top: 0;
+    margin-right: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 720px) {
+    #darkArea{
+        margin-left: 5rem;
+    }
+  }
+  @media screen and (max-width: 960px) {
+    #darkArea{
+        margin-left: 15rem;
+    }
+  }
