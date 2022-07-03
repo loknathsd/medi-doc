@@ -113,7 +113,7 @@ const Sidebar = ({color}) => {
         setOpen(false);
     };
 
-    const [auth, setAuth] = useState(true);
+    const [auth] = useState(true);
     const [anchorEl, setAnchorEl] = useState(null);
 
 
